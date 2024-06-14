@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwkvmNSzF0yuQpjjuCPsBRVr8zCKBs4DzBJW02d4SsXGY4/fC2bhFHtAZf0frABAiFmg7x3GNUCsvSTqTn+B7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tempo\\source\\repos\\AirportControllerHelperAPI\\AirportControllerHelperAPI\\AirportControllerHelperAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tempo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
+    "C:\\Users\\tempo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tempo\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\tempo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\tempo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\tempo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\tempo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
